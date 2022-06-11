@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App container">
       <PathfindingVisualizer></PathfindingVisualizer>
+      {/* jsdafljladsjf */}
       {/* <Navbar/> */}
     </div>
   );
